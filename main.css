@@ -21,3 +21,14 @@
     font-size: 25px;
     font-weight: 60;
 }
+
+.box {
+
+    border: 10px solid black;
+    box-sizing: border-box;
+    height: 500px;
+    margin: 250px;
+    padding: 25px;
+    width: 250px;
+
+}
